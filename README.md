@@ -19,10 +19,10 @@ This project performs real-time facial emotion recognition using a webcam. It de
 
 ## Installation
 
---py -3.9 -m pip install torch==2.8.0 torchvision==0.23.0
---py -3.9 -m pip install opencv-python==4.13.0.92
---py -3.9 -m pip install facial-emotion-recognition==0.3.4
---py -3.9 -m pip install facenet-pytorch==2.5.3
+-->py -3.9 -m pip install torch==2.8.0 torchvision==0.23.0
+-->py -3.9 -m pip install opencv-python==4.13.0.92
+-->py -3.9 -m pip install facial-emotion-recognition==0.3.4
+-->py -3.9 -m pip install facenet-pytorch==2.5.3
 
 ## Architecture
 
